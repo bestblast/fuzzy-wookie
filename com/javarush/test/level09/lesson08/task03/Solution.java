@@ -27,7 +27,7 @@ public class Solution {
     }
 
     public static void processExceptions() {
-        BEAN.methodThrowExceptions();
+//        BEAN.methodThrowExceptions();
     }
 
     public static class StatelessBean {
