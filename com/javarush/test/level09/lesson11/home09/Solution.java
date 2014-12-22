@@ -29,10 +29,10 @@ public class Solution
         result.put("Vaska2", new Cat("Vaska2Cat"));
         result.put("Vaska3", new Cat("Vaska3Cat"));
         result.put("Vaska4", new Cat("Vaska4Cat"));
-        result.put("Vaska5", new Cat("Vaska5Cat"));
+        result.put("Vas4a5", new Cat("Vaska5Cat"));
         result.put("Vaska6", new Cat("Vaska6Cat"));
-        result.put("Vaska7", new Cat("Vaska7Cat"));
-        result.put("Vaska8", new Cat("Vaska8Cat"));
+        result.put("Vas3a7", new Cat("Vaska7Cat"));
+        result.put("Va3a8", new Cat("Vaska8Cat"));
         result.put("Tima", new Cat("TimaCat"));
         result.put("Kot", new Cat("KotCat"));
         return result;
